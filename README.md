@@ -1,6 +1,4 @@
-Here's the updated `README.md` with a section for installing MediaPipe, along with the previous improvements:
 
----
 
 # ✋ Hand Tracking Virtual Paint 🎨  
 ### *Made by [abhayautiyal.dev](https://abhaynautiyaldev.netlify.app)*
